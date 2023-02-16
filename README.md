@@ -4,6 +4,7 @@ I have used Spoonacular API api with diffent HTTT query
 I have implemented different functionalities 
 Like debouncing while fetching the data with delay time of 2 seconds 
 Use of props to pass on the data and to show the search result 
+
 I have used the react router to change the pages, however I statred working on the project in moring so the project is not completed as per the task requirements 
 Stated working at 8:00 Am - 12pm after that system stared updaing so uploading the project till now.
 
